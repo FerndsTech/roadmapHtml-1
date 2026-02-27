@@ -1,1 +1,1 @@
-https://github.com/FerndsTech/roadmapHtml-1
+https://roadmap.sh/projects/single-page-cv
